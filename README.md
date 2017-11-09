@@ -26,7 +26,7 @@
  - Why this website needs updates or a remake ?
  
  This website needs updates because it uses **Deprecated technologies**, Since the time it was put online there has been many updates to *HTML* and *CSS*.
-![Old Tech](https://imgur.com/c8MRWaq.png)
+![Old Tech](https://imgur.com/pFiAIu0.png)
 
  - Is this website present on social networks ?
  
