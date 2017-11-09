@@ -5,6 +5,8 @@
 
  - Which website ?
 
+![Nos Amis Les Lapins](/home/mario/Pictures/1.png)
+
 [<h1>Nos Amis les Lapins](http://nosamisleslapin.e-monsite.com/)
 
 ### :shit: :fire: :rabbit::rabbit::rabbit::rabbit::rabbit::rabbit::rabbit::fire::shit:
@@ -14,14 +16,17 @@
  - Is it updated frequently ?
  
  No, Last update was nearly **8** years ago.
+![Last Update](/home/mario/Pictures/5.png)
 
  - How did you find it ?
  
  By searching in [Google](http://google.com) the terms *Friends & Animals*.
+![Google Search](/home/mario/Pictures/4.png) 
 
  - Why this website needs updates or a remake ?
  
  This website needs updates because it uses **Deprecated technologies**, Since the time it was put online there has been many updates to *HTML* and *CSS*.
+![Old Tech](/home/mario/Pictures/2.png)
 
  - Is this website present on social networks ?
  
@@ -33,6 +38,9 @@
  1. A new *CSS* stylesheet could be used, to give the site a fresh look.
  1. Advertisements should be removed, as its not a website with a commercial goal.
  1. A basic update should be done to make the website dynamic and mobile compatible.
+
+![Abusive Advertisement](/home/mario/Pictures/3.png)
+
 
 ![http://nosamisleslapin.e-monsite.com/medias/album/images/nougat.png?fx=r_550_550](http://nosamisleslapin.e-monsite.com/medias/album/images/nougat.png?fx=r_550_550)
 
