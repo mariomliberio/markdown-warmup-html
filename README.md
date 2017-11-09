@@ -5,7 +5,7 @@
 
  - Which website ?
 
-![Nos Amis Les Lapins](https://imgur.com/zWXrP8T)
+![Nos Amis Les Lapins](https://imgur.com/zWXrP8T/)
 
 [<h1>Nos Amis les Lapins](http://nosamisleslapin.e-monsite.com/)
 
@@ -16,17 +16,17 @@
  - Is it updated frequently ?
  
  No, Last update was nearly **8** years ago.
-![Last Update](https://imgur.com/c8MRWaq)
+![Last Update](https://imgur.com/c8MRWaq/)
 
  - How did you find it ?
  
  By searching in [Google](http://google.com) the terms *Friends & Animals*.
-![Google Search](https://imgur.com/r2niLZr) 
+![Google Search](https://imgur.com/r2niLZr/) 
 
  - Why this website needs updates or a remake ?
  
  This website needs updates because it uses **Deprecated technologies**, Since the time it was put online there has been many updates to *HTML* and *CSS*.
-![Old Tech](https://imgur.com/c8MRWaq)
+![Old Tech](https://imgur.com/c8MRWaq/)
 
  - Is this website present on social networks ?
  
