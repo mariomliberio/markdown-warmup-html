@@ -5,7 +5,7 @@
 
  - Which website ?
 
-![Nos Amis Les Lapins](/home/mario/Pictures/1.png)
+![Nos Amis Les Lapins](https://imgur.com/zWXrP8T)
 
 [<h1>Nos Amis les Lapins](http://nosamisleslapin.e-monsite.com/)
 
@@ -16,17 +16,17 @@
  - Is it updated frequently ?
  
  No, Last update was nearly **8** years ago.
-![Last Update](/home/mario/Pictures/5.png)
+![Last Update](https://imgur.com/c8MRWaq)
 
  - How did you find it ?
  
  By searching in [Google](http://google.com) the terms *Friends & Animals*.
-![Google Search](/home/mario/Pictures/4.png) 
+![Google Search](https://imgur.com/r2niLZr) 
 
  - Why this website needs updates or a remake ?
  
  This website needs updates because it uses **Deprecated technologies**, Since the time it was put online there has been many updates to *HTML* and *CSS*.
-![Old Tech](/home/mario/Pictures/2.png)
+![Old Tech](https://imgur.com/c8MRWaq)
 
  - Is this website present on social networks ?
  
@@ -39,7 +39,7 @@
  1. Advertisements should be removed, as its not a website with a commercial goal.
  1. A basic update should be done to make the website dynamic and mobile compatible.
 
-![Abusive Advertisement](/home/mario/Pictures/3.png)
+![Abusive Advertisement](https://imgur.com/ZjVUNcF)
 
 
 ![http://nosamisleslapin.e-monsite.com/medias/album/images/nougat.png?fx=r_550_550](http://nosamisleslapin.e-monsite.com/medias/album/images/nougat.png?fx=r_550_550)
