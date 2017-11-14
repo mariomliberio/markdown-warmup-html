@@ -1,5 +1,5 @@
 head {
-  background-color:powderblue;
+  background-color:#01B0B2;
 
 
 }
@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    color: RED ;
+    color: #FF8134 ;
     margin-left: ;
     margin: auto;
     text-align: center;
@@ -25,6 +25,7 @@ h1 {
 
 h2 {
      text-align: center;
+     color: #B24F12;
 }
 
 
@@ -34,6 +35,7 @@ p {
   font-size: 24px;
   text-align: center;
   margin: inherit;
+  
 }
 
 li {
