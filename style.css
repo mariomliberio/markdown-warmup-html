@@ -1,27 +1,63 @@
 head {
-  background-color:
+  background-color:powderblue;
+
 
 }
 
 body {
-    background-color:
+    background-color: powderblue;
     font-family: Georgia cursive;
 }
 
 h1 {
-    color: ;
+    color: RED ;
     margin-left: ;
     margin: auto;
+    text-align: center;
+    font: Georgia;
+    font-size: 48x;
+    text-align: center;
+    text-indent: inherit;
+
+
 }
 
-h2 {}
 
-h3 {}
+h2 {
+     text-align: center;
+}
 
-h4 {}
 
-p {}
 
-li {}
+p {
+  font: Georgia sans serif;
+  font-size: 24px;
+  text-align: center;
+  margin: inherit;
+}
 
-ul {}
+li {
+  font: Georgia;
+  font-size: 24px;
+  text-align: center;
+  margin: auto;
+  text-indent: inherit;
+}
+
+ul {
+  font: Georgia;
+  font-size: 24px;
+  text-align: center;
+  margin: auto;
+  text-indent: inherit;
+}
+
+img  {
+  width: auto;
+  height: auto;
+  max-width: 500px;
+  max-height: 500px;
+  align-items: center;
+
+
+}
